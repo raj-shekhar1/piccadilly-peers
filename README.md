@@ -1,7 +1,6 @@
 # Piccadilly-peers
-This repo is to help increase the node sync speed on Piccadilly network using static-nodes
 
-If you are facing node-sync issues on Piccadilly Testnet like not able to connect to peers or slow sync speed.
+To fix node-sync issues on Piccadilly Testnet like not able to connect to peers or slow sync speed.
 You can follow below steps to resolve this. 
 
 
